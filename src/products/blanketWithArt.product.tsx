@@ -12,7 +12,7 @@ const Product = {
 - Full-color, 1-sided printing
 - Use a single photo or create a collage
 `,
-  category: 'Bblankets',
+  category: 'Blankets',
   sources: [
     'https://www.vistaprint.ca/photo-gifts/fleece-blankets',
 
