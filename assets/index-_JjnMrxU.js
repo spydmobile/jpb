@@ -67,7 +67,7 @@ Please change the parent <Route path="${L}"> to <Route path="${L==="/"?"*":`${L}
 - Durable & machine-washable
 - Full-color, 1-sided printing
 - Use a single photo or create a collage
-`,category:"Bblankets",sources:["https://www.vistaprint.ca/photo-gifts/fleece-blankets"],images:[{image:"blanket.jpeg",alt:"My Art on a blanket"},,]},ry=Object.freeze(Object.defineProperty({__proto__:null,default:fy},Symbol.toStringTag,{value:"Module"})),oy={id:"large-canvas-with-art",name:"24x36 Canvas with wooden frame.",price:255,description:`
+`,category:"Blankets",sources:["https://www.vistaprint.ca/photo-gifts/fleece-blankets"],images:[{image:"blanket.jpeg",alt:"My Art on a blanket"},,]},ry=Object.freeze(Object.defineProperty({__proto__:null,default:fy},Symbol.toStringTag,{value:"Module"})),oy={id:"large-canvas-with-art",name:"24x36 Canvas with wooden frame.",price:255,description:`
 
 
 
