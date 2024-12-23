@@ -23,7 +23,7 @@ const Product = {
    alt: '24x36 Canvas with Art - Bottom Left'
   },
   {
-    image:'canvas-large-top-right2 .png',
+    image:'canvas-large-top-right2.png',
     alt: '24x36 Canvas with Art - Top Right'
   },
   
